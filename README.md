@@ -1,3 +1,5 @@
+![Bolder Flight Systems Logo](img/logo-words_75.png)
+
 # Contributing
 Instructions for making effective contributions to our projects.
 * [License](LICENSE.md)
